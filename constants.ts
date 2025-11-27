@@ -27,7 +27,7 @@ export const IMAGE_URLS = [
 ];
 
 // Placeholder for your video letter
-export const VIDEO_URL = "https://github.com/jaeuchoi/Jaelyn-Website/raw/refs/heads/main/placeholder.mp4";
+export const VIDEO_URL = "https://github.com/jaeuchoi/Jaelyn-Website/raw/refs/heads/main/To%2Jaelyn.mp4";
 
 export const CORRECT_MONTH = 10;
 export const CORRECT_DAY = 9;
